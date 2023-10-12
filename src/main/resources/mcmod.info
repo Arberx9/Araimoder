@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AraiMod",
+  "name": "Arai Mod",
+  "description": "Server sided stuff",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Arber"],
+  "credits": "Arber from Arai Craft",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

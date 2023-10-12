@@ -1,14 +1,22 @@
 package com.example.examplemod.commands;
 
+
 import net.minecraft.command.CommandBase;
 import net.minecraft.command.ICommandSender;
-import net.minecraft.server.MinecraftServer;
 
 public class rankup extends CommandBase {
-
-
-    public void execute(MinecraftServer server, ICommandSender player, String[] args) {
-    //Im working on this still
+    @Override
+    public String getCommandName() {
+        return null;
     }
 
+    @Override
+    public String getCommandUsage(ICommandSender sender) {
+        return null;
+    }
+
+    @Override
+    public void processCommand(ICommandSender sender, String[] args) {
+
+    }
 }
